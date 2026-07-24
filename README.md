@@ -36,6 +36,3 @@
 
 ---
 
-<div align="center">
-  <sub>Designed & Maintained by <b>Lê Văn Ánh</b> 🚀</sub>
-</div>
