@@ -30,7 +30,7 @@
 
 ---
 
-### 💻 Featured Backend Projects (Coming Soon)
+### 💻 Featured Backend Projects
 
 > 📌 **[EduConnect Platform](https://github.com/anhle1106/QLTT)**
 
