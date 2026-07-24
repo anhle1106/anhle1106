@@ -31,8 +31,16 @@
 ---
 
 ### 💻 Featured Backend Projects
-
+> 📌 **[Omnichannel Healthcare & Kiosk Platform](https://github.com/anhle1106/hospital-kiosk-core-api)**
+> 
+> Nền tảng Backend Y tế tập trung hiệu năng cao cho hệ sinh thái đa kênh: **Kiosk Y tế tự phục vụ**, **Website đặt lịch** và **Zalo Mini App**.
+> - **Tech Stack:** `Node.js (ESM)`, `Express 5`, `MongoDB`, `Redis`, `Redpanda (Kafka API)`, `OpenTelemetry`, `Prometheus`
+> - **Điểm sáng:** Xử lý hàng đợi bất đồng bộ với Redpanda, bộ nhớ đệm & Atomic Locking trên Redis chống xung đột khung giờ (Race Condition), tích hợp cổng BHYT Quốc gia & HIS bệnh viện.
+---
 > 📌 **[EduConnect Platform](https://github.com/anhle1106/QLTT)**
-
+> 
+> Hệ thống Backend quản lý trung tâm giáo dục & đào tạo toàn diện.
+> - **Tech Stack:** `NestJS`, `TypeScript`, `Prisma ORM`, `PostgreSQL`, `Swagger`, `Docker`
+> - **Điểm sáng:** Áp dụng kiến trúc Clean Architecture, Repository Pattern, quản lý học viên/khóa học và phân quyền bảo mật RBAC chặt chẽ.
 ---
 
