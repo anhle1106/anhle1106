@@ -32,7 +32,7 @@
 
 ### 💻 Featured Backend Projects (Coming Soon)
 
-> 📌 *(Đang cập nhật các dự án Backend NestJS/Node.js Microservices...)*
+> 📌 *((https://github.com/anhle1106/QLTT))*
 
 ---
 
