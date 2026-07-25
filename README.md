@@ -4,7 +4,7 @@
 
 ### Final-Year Student • Building Scalable Platforms & High-Availability Distributed Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=326CE5&center=true&vcenter=true&width=600&lines=DevOps+Platform+%26+Backend+Engineer;Kubernetes+%26+K3s+Multi-Node+HA;GitOps+Continuous+Delivery+(ArgoCD);HashiCorp+Vault+HA+Raft+%2B+Auto-Unseal;Cloudflare+Zero-Trust+QUIC+Tunnels)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=326CE5&center=true&vcenter=true&width=600&lines=DevOps+Platform+%26+Backend+Engineer;Kubernetes+GitOps+%7C+Vault+HA+%7C+Zero+Trust;Building+Reliable+Cloud-Native+Systems)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -26,21 +26,24 @@
 ### 🏆 Featured Platform Infrastructure
 
 > 🚀 **[k3s-gitops-vault-infra-template](https://github.com/anhle1106/k3s-gitops-vault-infra-template)**  
-> **Enterprise High-Availability K8s Infrastructure** — Highly Available 3-Node K3s Cluster, GitOps Engine (ArgoCD), HashiCorp Vault HA Raft with Bitwarden BWS Auto-Unseal (20s recovery), Zero-Trust Cloudflare QUIC Ingress, Dual Offsite R2 Backups ($0 egress), and Automated 1-Click Restore Scripts.
+> **Enterprise High-Availability K8s Infrastructure** — Highly Available 3-Node K3s Cluster, GitOps Engine (ArgoCD), HashiCorp Vault HA Raft with Bitwarden BWS Auto-Unseal (20s recovery), Zero-Trust networking, and production-ready observability.
 
 ---
 
 ### 💻 Featured Backend Projects
+
 > 📌 **[Omnichannel Healthcare & Kiosk Platform](https://github.com/anhle1106/hospital-kiosk-core-api)**
-> 
-> Nền tảng Backend Y tế tập trung hiệu năng cao cho hệ sinh thái đa kênh: **Kiosk Y tế tự phục vụ**, **Website đặt lịch** và **Zalo Mini App**.
+>
+> High-performance centralized healthcare backend platform for a multi-channel ecosystem: **Self-service Medical Kiosks**, **Appointment Booking Website**, and **Zalo Mini App**.
 > - **Tech Stack:** `Node.js (ESM)`, `Express 5`, `MongoDB`, `Redis`, `Redpanda (Kafka API)`, `OpenTelemetry`, `Prometheus`
-> - **Điểm sáng:** Xử lý hàng đợi bất đồng bộ với Redpanda, bộ nhớ đệm & Atomic Locking trên Redis chống xung đột khung giờ (Race Condition), tích hợp cổng BHYT Quốc gia & HIS bệnh viện.
----
-> 📌 **[EduConnect Platform](https://github.com/anhle1106/QLTT)**
-> 
-> Hệ thống Backend quản lý trung tâm giáo dục & đào tạo toàn diện.
-> - **Tech Stack:** `NestJS`, `TypeScript`, `Prisma ORM`, `PostgreSQL`, `Swagger`, `Docker`
-> - **Điểm sáng:** Áp dụng kiến trúc Clean Architecture, Repository Pattern, quản lý học viên/khóa học và phân quyền bảo mật RBAC chặt chẽ.
+> - **Highlights:** Asynchronous queue processing with Redpanda, Redis caching and atomic locking to prevent appointment-slot race conditions, and integration with Vietnam public health insurance gateway.
+
 ---
 
+> 📌 **[EduConnect Platform](https://github.com/anhle1106/QLTT)**
+>
+> Comprehensive backend system for education and training center management.
+> - **Tech Stack:** `NestJS`, `TypeScript`, `Prisma ORM`, `PostgreSQL`, `Swagger`, `Docker`
+> - **Highlights:** Clean Architecture and Repository Pattern implementation, student/course lifecycle management, and strict RBAC-based authorization.
+
+---
